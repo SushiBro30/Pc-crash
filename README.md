@@ -1,7 +1,7 @@
 # Pc-crash
 A Python 3 script to crash your pc
 You can use this to stress test your PC or other device that you can run python on.
-Plrase don't use this for malicious purposes. If you don't listen, <br>**I'M STILL NOT RESPONSIBLE FOR YOUR ACTIONS**<br>
+Please don't use this for malicious purposes. If you don't listen, <br>**I'M STILL NOT RESPONSIBLE FOR YOUR ACTIONS**<br>
 <br>
 Also, you can change the crashing value to be greater in the code itself (clarified in the notes in the code)<br>
 See how high the value you can make it without it crashing.<br>
