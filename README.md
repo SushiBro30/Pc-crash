@@ -6,6 +6,7 @@ Please don't use this for malicious purposes. If you don't listen, <br>**I'M STI
 ## Usage
 Copy and paste the raw data from crash.py into a compiler or a command line.<br>
 <br>Alternatively, you can download the file crash.py and run it<br>
+##
 Also, you can change the crashing value to be greater in the code itself (clarified in the notes in the code)<br>
 See how high the value you can make it without it crashing.<br>
 <br>**NOTE:** This script may just slow down and not crash newer PCs with better processors when using a low stress level.<br>
