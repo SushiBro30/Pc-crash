@@ -1,5 +1,5 @@
 # Pc-crash
-A python script to crash your pc
+A Python 3 script to crash your pc
 You can use this to stress test your PC or other device that you can run python on.
 Plrase don't use this for malicious purposes. If you don't listen, <br>**I'M STILL NOT RESPONSIBLE FOR YOUR ACTIONS**<br>
 <br>
