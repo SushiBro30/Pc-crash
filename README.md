@@ -4,12 +4,16 @@ You can use this to stress test your PC or other device that you can run python 
 Please don't use this for malicious purposes. If you don't listen, <br>**I'M STILL NOT RESPONSIBLE FOR YOUR ACTIONS**<br>
 <br>
 ## Usage
-Copy and paste the raw data from crash.py into a compiler or a command line.<br>
-<br>Alternatively, you can download the file crash.py and run it<br>
+1. Copy and paste the raw data from crash.py into a compiler(reccommended) or a command line(might not work).<br>
+2. Alternatively, you can download the file crash.py and run it by using the command line and typing `python3 crash.py` <br>
 ##
 Also, you can change the crashing value to be greater in the code itself (clarified in the notes in the code)<br>
-See how high the value you can make it without it crashing.<br>
 <br>**NOTE:** This script may just slow down and not crash newer PCs with better processors when using a low stress level.<br>
+## Requirements
+1. Python 3.x (of course)
+2. NumPy<br>
+NumPy will probably be installed, but if not, use `pip install numpy`
+##
 ...
 <br>thats all.<br>
 ...<br>
