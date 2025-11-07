@@ -6,6 +6,7 @@ Please don't use this for malicious purposes. If you don't listen, <br>**I'M STI
 ## Usage
 1. Copy and paste the raw data from crash.py into a compiler(reccommended) or a command line(might not work).<br>
 2. Alternatively, you can download the file crash.py and run it by using the command line and typing `python3 crash.py` <br>
+**Note:** put the file in the default directory (usually `c:\\Users\\XXXX` for windows [change XXXX to username]) or execute before running `cd *your*\\*file*\\*directory*\\`
 ##
 Also, you can change the crashing value to be greater in the code itself (clarified in the notes in the code)<br>
 <br>**NOTE:** This script may just slow down and not crash newer PCs with better processors when using a low stress level.<br>
